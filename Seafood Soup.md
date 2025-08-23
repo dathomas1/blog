@@ -27,7 +27,7 @@ share: "true"
 - 1/4 cup ~~coconut oil~~ (substitute Grapeseed Oil)
 - 1.5 cup ~~tomato sauce~~ (substitute [No Tomato Tomato Sauce](./No%20Tomato%20Tomato%20Sauce.md))
 - 1/2 cup ~~coconut cream~~ (substitute [Milk](Milk.md))
-- 1 quart ~~seafood broth~~ (substitute Vegan Broth)
+- 1 quart ~~seafood broth~~ (substitute [Vegan Broth](./Vegan%20Broth.md))
 - 2 cups water
 - 3 medium carrots
 - 4 stalks celery
