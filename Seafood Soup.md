@@ -26,7 +26,7 @@ share: "true"
 - 8 oz shrimp
 - 1/4 cup ~~coconut oil~~ (substitute Grapeseed Oil)
 - 1.5 cup ~~tomato sauce~~ (substitute [No Tomato Tomato Sauce](./No%20Tomato%20Tomato%20Sauce.md))
-- 1/2 cup ~~coconut cream~~ (substitute [Milk](Milk.md))
+- 1/2 cup ~~coconut cream~~ (substitute Coconut Milk. Don't use regular Milk)
 - 1 quart ~~seafood broth~~ (substitute Vegan Broth)
 - 2 cups water
 - 3 medium carrots
@@ -39,14 +39,14 @@ share: "true"
 - 1 lemon
 
 #### Spices
-- 1 tbsp [salt](http://amzn.to/1IWqXft)
-- 2 tsp [pepper](http://amzn.to/1PeaIeC)
-- 2 tsp [red pepper flakes](http://amzn.to/1fzuhSr)
-- 1 tsp [thyme](http://amzn.to/1fzvitP)
-- 1 tsp [dill](http://amzn.to/1eGMGN7)
-- 3 [whole bay leaves](http://amzn.to/1fzwfCk)
-- 2 tsp [basil](http://amzn.to/1pJlXER)
-- 2 tsp [oregano](http://amzn.to/1Hdh3aj)
+- 1 tbsp salt
+- 2 tsp pepper
+- 2 tsp red pepper flakes
+- 1 tsp thyme
+- 1 tsp dill
+- 3 whole bay leaves
+- 2 tsp basil
+- 2 tsp oregano
 - fresh parsley
 
 Instructions
