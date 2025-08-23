@@ -1,0 +1,203 @@
+---
+created: 2025-03-15
+share: "true"
+tags:
+  - breakfast
+  - snack
+  - lunch
+  - soup
+  - salad
+  - dessert
+  - smoothie
+  - drink
+  - favorite
+  - dressing-sauce
+---
+## Menus for B Type
+- [Millet cereal](Millet%20cereal.md) with [Raisins](Raisins.md) and [maple syrup](maple%20syrup.md) #breakfast
+- Kefir #snack
+- [Cherries](Cherries.md) #snack 
+- [Mashed sardines and lettuce](Mashed%20sardines%20and%20lettuce.md) on [Ezekiel bread](Ezekiel%20bread.md) #lunch
+- [Carrot sticks](Carrot%20sticks.md)
+- [Blueberry spelt muffin](Blueberry%20spelt%20muffin.md)
+- [Banana](Banana.md)
+- [Figs](Figs.md) with [goat cheese](goat%20cheese.md) #breakfast 
+- [Ezekiel toast](Ezekiel%20bread.md) with [raspberry preserves](raspberry%20preserves.md) #breakfast 
+- [Oranges](Oranges.md)
+- [Banana-pineapple yogurt drink](Banana-pineapple%20yogurt%20drink.md) #snack 
+- [Wasa bread](Wasa%20bread.md) with [slice of cheese](slice%20of%20cheese.md) Fleeting:: link to cheese, bread, fruit index
+- [Gingered squash soup](Gingered%20squash%20soup.md) #lunch 
+- [Cranberry spelt muffin](Cranberry%20spelt%20muffin.md) #snack 
+- [Plums](Plums.md)
+- [Single-egg omelet with feta cheese and parsley](Single-egg%20omelet%20with%20feta%20cheese%20and%20parsley.md) #breakfast 
+- [Essene toast](Essene%20toast.md) with [apple butter](apple%20butter.md) #breakfast 
+- [Papaya juice](Papaya%20juice.md) #snack #breakfast 
+- [Apricot-yogurt drink](Apricot-yogurt%20drink.md) #snack 
+- [Faro pilaf with goat cheese](Faro%20pilaf%20with%20goat%20cheese.md) #lunch 
+- [Cucumber with oil and vinegar](Cucumber%20with%20oil%20and%20vinegar.md) #lunch 
+- [Rice cakes](Rice%20cakes.md) with [almond butter](almond%20butter.md) #snack 
+- [Grapes](Grapes.md)
+- [Oatmeal](Oatmeal.md) with [Raisins](Raisins.md), [Milk](Milk.md), and [maple syrup](maple%20syrup.md) #breakfast 
+- [Pineapple juice](Pineapple%20juice.md)
+- [Cherry-yogurt soup](Cherry-yogurt%20soup.md) #lunch 
+- [Pear spelt muffin](Pear%20spelt%20muffin.md) #snack 
+- [Ricotta](Ricotta.md) with [sauteed bananas](sauteed%20bananas.md) #breakfast 
+- [Mixed berry salad](Mixed%20berry%20salad.md) #snack 
+- [Tuna salad and lettuce](Tuna%20salad%20and%20lettuce.md) on [Ezekiel bread](Ezekiel%20bread.md) #lunch 
+- [Carrot-cucumber juice](Carrot-cucumber%20juice.md) #lunch 
+- [Walnut cookies](Walnut%20cookies.md) #snack 
+- [Almond-Rice Bread](Almond-Rice%20Bread.md) with [Plum Preserves](Plum%20Preserves.md) #breakfast 
+- [Poached egg](Poached%20egg.md) #breakfast 
+- [Grapefruit](Grapefruit.md)
+- [Papaya-banana yogurt drink](Papaya-banana%20yogurt%20drink.md) #snack 
+- [Mixed roots soup](Mixed%20roots%20soup.md) #lunch 
+- [Grilled goat cheese sandwich](Grilled%20goat%20cheese%20sandwich.md) #lunch 
+- [Lemon squares](Lemon%20squares.md) #snack 
+- [Oat flour-spelt pancakes](Oat%20flour-spelt%20pancakes.md)  topped with [sauteed pears](sauteed%20pears.md) or [sauteed bananas](sauteed%20bananas.md) #breakfast 
+- [Grape juice](Grape%20juice.md)
+- [Pineapple-yogurt smoothie](Pineapple-yogurt%20smoothie.md) #snack 
+- [Poached fruit over ricotta](Poached%20fruit%20over%20ricotta.md) #lunch 
+- [Yogurt with mixed plums](Yogurt%20with%20mixed%20plums.md) #breakfast 
+- [Ezekiel bread](Ezekiel%20bread.md) with [almond butter](almond%20butter.md) #breakfast 
+- [Mango-lime smoothie](Mango-lime%20smoothie.md) #snack 
+- [Tuna salad](Tuna%20salad.md) on [spelt bread](spelt%20bread.md) #lunch 
+- [Cole slaw](Cole%20slaw.md) #lunch 
+- [Carrot-celery juice](Carrot-celery%20juice.md)
+- [Mixed fruit salad](Mixed%20fruit%20salad.md) #snack 
+- [Egg omelet](Egg%20omelet.md) with [Gruyere](Gruyere.md) #breakfast 
+- [Ezekiel bread](Ezekiel%20bread.md) with [butter](butter.md)
+- [Yogurt](Yogurt.md) with [Banana](Banana.md) and [Raisins](Raisins.md) #snack 
+- [Cream of lima bean soup](Cream%20of%20lima%20bean%20soup.md) #lunch 
+- [Tossed salad](Tossed%20salad.md) #lunch 
+- [Shortbread](Shortbread.md) #snack 
+- [Poached pears](Poached%20pears.md)
+- [Banana oat muffin](Banana%20oat%20muffin.md) #breakfast 
+- [Pineapple chunks](Pineapple%20chunks.md) #breakfast 
+- [Cottage cheese and grapes](Cottage%20cheese%20and%20grapes.md) #snack 
+- Spinach pasta with sauteed mushrooms and parmesan
+- [Rye bread](Rye%20bread.md) with [plum preserves](plum%20preserves.md)
+- [Banana-yogurt smoothie](Banana-yogurt%20smoothie.md) #snack 
+- [Soft goat cheese](Soft%20goat%20cheese.md) and [cherry preserves](cherry%20preserves.md) on [Almond-Rice Bread](Almond-Rice%20Bread.md) #lunch 
+- [Red grapes](Red%20grapes.md)
+- [Rice pudding](Rice%20pudding.md) #snack 
+- [Boiled red potatoes](Boiled%20red%20potatoes.md)
+- [Cream of Rice](Cream%20of%20Rice.md) with [Dried Cherries](Dried%20Cherries.md) and [soy-rice milk](soy-rice%20milk.md) #breakfast 
+- [Papaya](Papaya.md) #snack 
+- [Almond butter](Almond%20butter.md) and [sliced bananas](Banana.md) on [Ezekiel bread](Ezekiel%20bread.md) #lunch 
+- [Blueberry oat muffin](Blueberry%20oat%20muffin.md) #snack 
+- [Bose pear](Bose%20pear.md) #snack 
+- [Cottage cheese with pineapple and papaya](Cottage%20cheese%20with%20pineapple%20and%20papaya.md) #breakfast 
+- [Spelt bread](Spelt%20bread.md) with [grape jelly](grape%20jelly.md) #breakfast 
+- [Goat milk](Goat%20milk.md) #snack 
+- [Quinoa pasta with sauteed peppers and goat cheese](Quinoa%20pasta%20with%20sauteed%20peppers%20and%20goat%20cheese.md) #lunch 
+- [Steamed Brussels sprouts](Steamed%20Brussels%20sprouts.md)
+- [Dried figs](Dried%20figs.md) and [Dried dates](Dried%20dates.md) #snack 
+- [Fish soup](Fish%20soup.md) #lunch #soup
+- [Spelt baguette](Spelt%20baguette.md) #lunch 
+- [Carrot-raisin salad](Carrot-raisin%20salad.md) #lunch #salad
+- [Rice crackers](Rice%20crackers.md) with [Goat Cheese](Goat%20Cheese.md) #snack 
+- [Scrambled eggs](Scrambled%20eggs.md) #breakfast 
+- [Oat toast](Oat%20bread.md) with [orange marmalade](orange%20marmalade.md) #breakfast 
+- [Fresh figs](Fresh%20figs.md) #snack 
+- [Mozzarella](Mozzarella.md) with [sauteed zucchini and garlic](sauteed%20zucchini%20and%20garlic.md) on [Spelt baguette](Spelt%20baguette.md) #lunch 
+- [Lemon curd square](Lemon%20curd%20square.md) #snack 
+- [Turkey burger with mango chutney](Turkey%20burger%20with%20mango%20chutney.md)
+- [Homemade granola](Homemade%20granola.md) with [sliced bananas](Banana.md) #breakfast 
+- [Concord grapes](Concord%20grapes.md) #snack 
+- [Orange-yogurt smoothie](Orange-yogurt%20smoothie.md) #snack 
+- [Beef burger](Beef%20burger.md) #lunch 
+- [Cranberry oat muffin](Cranberry%20oat%20muffin.md) #snack 
+- [Broiled cod](Broiled%20cod.md)
+- [Grilled peppers and goat cheese](Grilled%20peppers%20and%20goat%20cheese.md) on [spelt bread](spelt%20bread.md) #lunch 
+- [Kefir-banana smoothie](Kefir-banana%20smoothie.md) #snack 
+- [Miso soup](Miso%20soup.md) #breakfast 
+- [Brown rice](Brown%20rice.md) #breakfast 
+- [Salted sliced cucumbers](Salted%20sliced%20cucumbers.md) #breakfast 
+- [Sardines](Sardines.md) on [oat bread](oat%20bread.md) #lunch 
+- [Sweet potato fritters](Sweet%20potato%20fritters.md)
+- [Pineapple upside-down cake](Pineapple%20upside-down%20cake.md) #dessert
+- [Gruyere omelet](Gruyere%20omelet.md) #breakfast 
+- [Sauteed grouper](Sauteed%20grouper.md)
+- [Spelt toast](Spelt%20bread.md) with [Cherry preserves](Cherry%20preserves.md) #breakfast 
+- [Kefir and pineapple smoothie](Kefir%20and%20pineapple%20smoothie.md) #snack #smoothie
+- [Kidney bean and butternut squash soup](Kidney%20bean%20and%20butternut%20squash%20soup.md) #lunch #soup 
+- [Wasa bread](Wasa%20bread.md) with [Monterery Jack cheese](Monterery%20Jack%20cheese.md) #lunch 
+- [Yogurt](Yogurt.md) with [Pineapple chunks](Pineapple%20chunks.md), [Papaya](Papaya.md), and [Banana](Banana.md) #breakfast 
+- [Pear muffin](Pear%20muffin.md) Fleeting:: is this the same a [Pear spelt muffin](Pear%20spelt%20muffin.md) #snack 
+- [Curried turkey salad](Curried%20turkey%20salad.md) on [Ezekiel bread](Ezekiel%20bread.md) #lunch 
+- [Homemade gatorade](./Homemade%20gatorade.md) #drink
+- [Baked sweet potato](Baked%20sweet%20potato.md)
+- [Mango-pineapple chutney](Mango-pineapple%20chutney.md)
+- [Banana-walnut muffin](Banana-walnut%20muffin.md)
+- [Yogurt](Yogurt.md) with [Honey](Honey.md) and [Raisins](Raisins.md)
+- [Mesclun salad](Mesclun%20salad.md)
+- [Basmati rice](Basmati%20rice.md)
+- [Oatmeal cookie](Oatmeal%20cookie.md)
+- [Cottage cheese](Cottage%20cheese.md) with [sliced bananas](Banana.md) and [Honey](Honey.md)
+- [Spelt toast](Spelt%20bread.md) with [Plum preserves](Plum%20preserves.md) 
+- [Rice cakes](Rice%20cakes.md) with [Soy butter](Soy%20butter.md) and [Cherry jam](Cherry%20jam.md)
+- [Apple celery and walnut salad](Apple%20celery%20and%20walnut%20salad.md) with [yogurt-honey dressing](yogurt-honey%20dressing.md)
+- [Roasted potatoes with garlic and rosemary](Roasted%20potatoes%20with%20garlic%20and%20rosemary.md)
+- [Baked acorn squash](Baked%20acorn%20squash.md) with [butter](butter.md) and [Honey](Honey.md)
+- [Pineapple-yogurt shake](Pineapple-yogurt%20shake.md) #breakfast 
+- [Pineapple bread](Pineapple%20bread.md)
+- [Simple fish soup](Simple%20fish%20soup.md)
+- [Red and yellow peppers with curry dip](Red%20and%20yellow%20peppers%20with%20curry%20dip.md)
+- Fresh sliced [Mango](Mango.md) and [Peaches](Peach.md)
+- [Rose water lassi](Rose%20water%20lassi.md)
+- [Millet-spelt-soy pancakes](Millet-spelt-soy%20pancakes.md) with [maple syrup](maple%20syrup.md)
+- [Vanilla-nut coffee](Vanilla-nut%20coffee.md) with [Milk](Milk.md) #breakfast 
+- [Banana-peach yogurt shake](Banana-peach%20yogurt%20shake.md)
+- [Tuna melt on spelt bread with lettuce and tomato](Tuna%20melt%20on%20spelt%20bread%20with%20lettuce%20and%20tomato.md)
+- [Carrot-ginger juice](Carrot-ginger%20juice.md)
+- [Grilled lamb sausages](Grilled%20lamb%20sausages.md)
+- [Single-egg omelet with broccoli and cheddar](Single-egg%20omelet%20with%20broccoli%20and%20cheddar.md) #breakfast 
+- [Alder-smoked mackerel salad](Alder-smoked%20mackerel%20salad.md) on [Spelt bread](Spelt%20bread.md)
+- [Romaine salad with feta](Romaine%20salad%20with%20feta.md)
+- [Apple](Apple.md)
+- [Spelt French bread](Spelt%20French%20bread.md)
+- [Poached fruit](Poached%20fruit.md)
+- [Seafood Soup](./Seafood%20Soup.md) #favorite
+- [Puffed rice cereal](Puffed%20rice%20cereal.md) with [Milk](Milk.md) and [Banana](Banana.md)
+- [Dried apricots](Dried%20apricots.md) and [Papaya](Papaya.md)
+- [Cucumber-yogurt soup](Cucumber-yogurt%20soup.md) #soup 
+- [Banana-plum cake](Banana-plum%20cake.md)
+- [Rice cakes](Rice%20cakes.md) with [Almond butter](Almond%20butter.md) and [grape jelly](grape%20jelly.md)
+- [Broiled sole](Broiled%20sole.md)
+- [Roasted potatoes with garlic and rosemary](Roasted%20potatoes%20with%20garlic%20and%20rosemary.md)
+- [Sauteed broccoli rabe and onions](Sauteed%20broccoli%20rabe%20and%20onions.md)
+- [Apricot-yogurt shake](Apricot-yogurt%20shake.md)
+- [Raisin toast](Raisin%20toast.md) with [butter](butter.md)
+- [Carrot sticks](Carrot%20sticks.md) with [Dill cottage cheese dip](Dill%20cottage%20cheese%20dip.md)
+- [Lima bean salad](Lima%20bean%20salad.md) with [Goat Cheese](Goat%20Cheese.md)
+- [Hot turkey broth](Hot%20turkey%20broth.md) #snack 
+- [Venison stew](Venison%20stew.md)
+- [Sauteed apples and pears](Sauteed%20apples%20and%20pears.md) with [Raisins](Raisins.md)
+- [Spelt French bread](Spelt%20French%20bread.md)
+- [French toast](French%20toast.md) with [maple syrup](maple%20syrup.md)
+- [Cottage cheese](Cottage%20cheese.md) with [Grated carrots and jieama on romaine](Grated%20carrots%20and%20jieama%20on%20romaine.md) with [Balsamic honey-mustard dressing](Balsamic%20honey-mustard%20dressing.md)
+- [Grilled flank steak](Grilled%20flank%20steak.md)
+- [Grilled red and yellow peppers and zucchini](Grilled%20red%20and%20yellow%20peppers%20and%20zucchini.md)
+- [Brown rice pilaf](Brown%20rice%20pilaf.md)
+- [Egg omelet with leftover vegatables](Egg%20omelet%20with%20leftover%20vegatables.md) and [Goat Cheese](Goat%20Cheese.md)
+- [Greek Salad](Greek%20Salad.md)
+- [Spelt roll](Spelt%20roll.md)
+- [Cranberry juice](Cranberry%20juice.md)
+- [Roast turkey](Roast%20turkey.md)
+- [Sweet potato puree](Sweet%20potato%20puree.md)
+- [Cranberry dressing](Cranberry%20dressing.md)
+- [Green beans with balsamic vinaigrette](Green%20beans%20with%20balsamic%20vinaigrette.md)
+- [Oatmeal](Oatmeal.md) with [Milk](Milk.md) and [Dried Cherries](Dried%20Cherries.md)
+- [Papaya smoothie](Papaya%20smoothie.md)
+- [Turkey soup](Turkey%20soup.md)
+- [Apple](Apple.md) with [Cheddar cheese](Cheddar%20cheese.md)
+- [Grilled lamb chops](Grilled%20lamb%20chops.md)
+- [Grilled eggplant and red peppers](Grilled%20eggplant%20and%20red%20peppers.md) with [Goat Cheese](Goat%20Cheese.md)
+- [Green salad](Green%20salad.md) with [Lemon and olive oil dressing](Lemon%20and%20olive%20oil%20dressing.md)
+- [No Tomato Tomato Sauce](./No%20Tomato%20Tomato%20Sauce.md) #dressing-sauce
+- 
+
+---
+- prev: [](.md)
+- source: Cook Right For Your Type
+- see also: [](.md) 
