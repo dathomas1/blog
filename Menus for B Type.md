@@ -1,21 +1,10 @@
 ---
 created: 2025-03-15
 share: "true"
-tags:
-  - breakfast
-  - snack
-  - lunch
-  - soup
-  - salad
-  - dessert
-  - smoothie
-  - drink
-  - favorite
-  - dressing-sauce
 ---
 ## Menus for B Type
 - [Millet cereal](Millet%20cereal.md) with [Raisins](Raisins.md) and [maple syrup](maple%20syrup.md) #breakfast
-- [Kefir](./Kefir.md) #snack
+- Kefir #snack
 - [Cherries](Cherries.md) #snack 
 - [Mashed sardines and lettuce](Mashed%20sardines%20and%20lettuce.md) on [Ezekiel bread](Ezekiel%20bread.md) #lunch
 - [Carrot sticks](Carrot%20sticks.md)
@@ -74,7 +63,7 @@ tags:
 - [Banana oat muffin](Banana%20oat%20muffin.md) #breakfast 
 - [Pineapple chunks](Pineapple%20chunks.md) #breakfast 
 - [Cottage cheese and grapes](Cottage%20cheese%20and%20grapes.md) #snack 
-- [Spinach pasta with sauteed mushrooms and parmesan](./Spinach%20pasta%20with%20sauteed%20mushrooms%20and%20parmesan.md)
+- Spinach pasta with sauteed mushrooms and parmesan
 - [Rye bread](Rye%20bread.md) with [plum preserves](plum%20preserves.md)
 - [Banana-yogurt smoothie](Banana-yogurt%20smoothie.md) #snack 
 - [Soft goat cheese](Soft%20goat%20cheese.md) and [cherry preserves](cherry%20preserves.md) on [Almond-Rice Bread](Almond-Rice%20Bread.md) #lunch 
@@ -199,5 +188,5 @@ tags:
 
 ---
 - prev: [](.md)
-- source: [Cook Right For Your Type](./Cook%20Right%20For%20Your%20Type.md)
+- source: Cook Right For Your Type
 - see also: [](.md) 
